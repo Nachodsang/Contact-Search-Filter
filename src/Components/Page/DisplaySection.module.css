@@ -1,0 +1,6 @@
+.frame {
+  margin: auto;
+  display: flex;
+  background-color: yellow;
+  justify-content: center;
+}

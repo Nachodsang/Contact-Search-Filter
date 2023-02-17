@@ -1,0 +1,10 @@
+.chat-body {
+  display: flex;
+  background-color: blue;
+  min-width: 500px;
+  /* flex: 2 1 auto; */
+}
+
+.name {
+  font-size: 1.5rem;
+}
